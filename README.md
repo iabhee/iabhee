@@ -51,9 +51,17 @@ Streamlined Kubernetes deployments by adopting **ArgoCD** for declarative GitOps
 ---
 
 ## 📬 Get in Touch
-- 📧 Email: [rabhilash.devops@gmail.com](mailto:rabhilash.devops@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/ramagiriabhilash](https://linkedin.com/in/ramagiriabhilash)  
+- 📧 [Email](mailto:rabhilash.devops@gmail.com)
+- 💼 [LinkedIn](https://linkedin.com/in/ramagiriabhilash)
 
 ---
 
 🌟 **“Empowering teams with automation and innovation to build scalable, secure, and reliable systems.”** 🌟  
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iabhee&show_icons=true)
+
+![Profile Views](https://komarev.com/ghpvc/?username=iabhee&color=blue&style=flat)
