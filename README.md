@@ -1,30 +1,40 @@
-# 👋 Hi there, I’m Abhilash!
+# 👋 Hello, World! I'm Abhilash  
 
-🚀 **Senior DevOps Engineer** with 13+ years of experience in **cloud-native DevOps**, **CI/CD pipelines**, and **infrastructure automation**. I specialize in transforming complex development workflows into seamless, automated systems.  
-
----
-
-## 💻 What I Do
-- **Cloud Platforms**: Expertise in **AWS** & **Azure** for building scalable, secure, and cost-efficient infrastructure.  
-- **DevOps Automation**: Designing robust **CI/CD pipelines**, implementing **GitOps** with tools like **ArgoCD**, **Helm**, and **Terraform**.  
-- **Observability & Monitoring**: Leveraging tools like **Grafana**, **Prometheus**, and **Azure Monitor** for proactive system insights.  
-- **Security & Compliance**: Implementing automated security policies, vulnerability scanning, and compliance checks with tools like **JFrog Xray** and **Wiz CLI**.  
+I build bridges—between ideas and execution, between code and the cloud, between "what if" and "let’s do it." As a **DevOps Engineer**, my mission is to make technology seamless, scalable, and just a little bit magical.  
 
 ---
 
-## 🛠️ Tech Stack
-### 🧰 Tools & Platforms
+## 🚀 What Gets Me Out of Bed  
+- 🛠 Turning complex problems into elegant, automated solutions  
+- ☁️ Creating infrastructure that runs like clockwork, whether on **AWS**, **Azure**, or beyond  
+- 💻 Watching pipelines flow smoothly and systems scale effortlessly  
+
+---
+
+## 🌐 What I Bring to the Table  
+- 🌍 **Terraform** to terraform the world  
+- 🎵 **Kubernetes** for orchestration that sings in harmony  
+- 🛠 **CI/CD pipelines** that deploy with confidence (and style!)
+- 👁 **Observability** tools and practices for deep insights into systems performance and reliability   
+- 🧠 Code that doesn’t just work—it works smart  
+
+---
+
+## 💻 My Toolbox  
+### **Cloud Platforms:**  
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)  
+
+### **DevOps Tools:**  
 ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat&logo=terraform&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/-ArgoCD-F66A0A?style=flat&logo=argo&logoColor=white)
 ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 
-### 🧑‍💻 Programming & Scripting
+### **Languages:**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
@@ -35,33 +45,31 @@
 
 ---
 
-## 📈 My Recent Work
-### 🔹 **CI/CD Optimization**  
-Developed multi-stage CI/CD pipelines using **Azure Pipelines** and **AWS CodePipeline** to enhance deployment efficiency for .NET Core, nodeJS, and Unity based applications.  
-
-### 🔹 **Infrastructure Automation**  
-Implemented **Terraform** to provision and manage multi-cloud infrastructure, supporting dynamic scaling and reducing manual overhead.  
-
-### 🔹 **Monitoring & Observability**  
-Integrated **Azure Monitor**, **Grafana**, and **Prometheus** for .NET and Node.js applications, improving anomaly detection and performance monitoring.  
-
-### 🔹 **GitOps with ArgoCD**  
-Streamlined Kubernetes deployments by adopting **ArgoCD** for declarative GitOps workflows, enhancing team collaboration and deployment reliability.  
+## 🌱 Always Growing  
+In tech, there’s always a new horizon, and I’m here for it. Whether it’s diving into **observability tools** or experimenting with **near real-time data ingestion**, I thrive on learning and creating.  
 
 ---
 
-## 📬 Get in Touch
-- 📧 [Email](mailto:rabhilash.devops@gmail.com)
-- 💼 [LinkedIn](https://linkedin.com/in/ramagiriabhilash)
+## ✨ Fun Fact  
+I once transformed a traditional build-and-deploy setup into a modern CI/CD masterpiece. The result? Happier teams, faster releases, and a lot fewer late-night calls.  
 
 ---
 
-🌟 **“Empowering teams with automation and innovation to build scalable, secure, and reliable systems.”** 🌟  
+## 📫 Let’s Connect!  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramagiriabhilash/)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iabhee/)  
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rabhilash.devops@example.com)  
 
----
 
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iabhee&show_icons=true)
 
-![Profile Views](https://komarev.com/ghpvc/?username=iabhee&color=blue&style=flat)
+![](https://github-readme-streak-stats.herokuapp.com/?user=iabhee&theme=holi&hide_border=false)<br/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=iabhee&theme=holi&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+![Profile Views](https://visitcount.itsvg.in/api?id=iabhee&icon=0&color=0)
+
+
